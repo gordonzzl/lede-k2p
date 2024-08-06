@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-sed -i 's/192.168.1.1/192.168.5.111/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.3.1/g' package/base-files/files/bin/config_generate
 # 2.修改主机名
 #sed -i 's/OpenWrt/K2P/g' package/base-files/files/bin/config_generate
 
