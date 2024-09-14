@@ -16,4 +16,4 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git homeproxy https://github.com/kenzok8/small-package' >>feeds.conf.default
-echo 'src-git ddnsto https://github.com/shidahuilang/openwrt-package' >>feeds.conf.default
+#echo 'src-git ddnsto https://github.com/shidahuilang/openwrt-package' >>feeds.conf.default
